@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	importTitle="NONE"
+	galleryHeight="550px"
+	backgroundColor="rgba(255,255,255,1)"
+	textColor="rgba(135,142,131,0)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+	showExpandButton="false"
+
+>
+  <image imageURL="images/IMG_8534.jpg"
+	thumbURL="thumbs/IMG_8534.jpg"
+	linkURL="images/IMG_8534.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8534.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8535.jpg"
+	thumbURL="thumbs/IMG_8535.jpg"
+	linkURL="images/IMG_8535.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8535.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8536.jpg"
+	thumbURL="thumbs/IMG_8536.jpg"
+	linkURL="images/IMG_8536.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8536.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8537.jpg"
+	thumbURL="thumbs/IMG_8537.jpg"
+	linkURL="images/IMG_8537.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8537.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8538.jpg"
+	thumbURL="thumbs/IMG_8538.jpg"
+	linkURL="images/IMG_8538.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8538.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8539.jpg"
+	thumbURL="thumbs/IMG_8539.jpg"
+	linkURL="images/IMG_8539.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8539.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8540.jpg"
+	thumbURL="thumbs/IMG_8540.jpg"
+	linkURL="images/IMG_8540.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8540.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8541.jpg"
+	thumbURL="thumbs/IMG_8541.jpg"
+	linkURL="images/IMG_8541.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8541.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8542.jpg"
+	thumbURL="thumbs/IMG_8542.jpg"
+	linkURL="images/IMG_8542.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8542.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8543.jpg"
+	thumbURL="thumbs/IMG_8543.jpg"
+	linkURL="images/IMG_8543.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8543.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8544.jpg"
+	thumbURL="thumbs/IMG_8544.jpg"
+	linkURL="images/IMG_8544.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8544.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8545.jpg"
+	thumbURL="thumbs/IMG_8545.jpg"
+	linkURL="images/IMG_8545.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8545.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8546.jpg"
+	thumbURL="thumbs/IMG_8546.jpg"
+	linkURL="images/IMG_8546.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8546.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8547.jpg"
+	thumbURL="thumbs/IMG_8547.jpg"
+	linkURL="images/IMG_8547.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8547.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8548.jpg"
+	thumbURL="thumbs/IMG_8548.jpg"
+	linkURL="images/IMG_8548.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8548.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8549.jpg"
+	thumbURL="thumbs/IMG_8549.jpg"
+	linkURL="images/IMG_8549.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8549.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8550.jpg"
+	thumbURL="thumbs/IMG_8550.jpg"
+	linkURL="images/IMG_8550.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8550.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8551.jpg"
+	thumbURL="thumbs/IMG_8551.jpg"
+	linkURL="images/IMG_8551.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8551.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8552.jpg"
+	thumbURL="thumbs/IMG_8552.jpg"
+	linkURL="images/IMG_8552.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8552.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8553.jpg"
+	thumbURL="thumbs/IMG_8553.jpg"
+	linkURL="images/IMG_8553.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8553.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8554.jpg"
+	thumbURL="thumbs/IMG_8554.jpg"
+	linkURL="images/IMG_8554.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8554.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8555.jpg"
+	thumbURL="thumbs/IMG_8555.jpg"
+	linkURL="images/IMG_8555.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\gallery-park-party-2014\IMG_8555.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

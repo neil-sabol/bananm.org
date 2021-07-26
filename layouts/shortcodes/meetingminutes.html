@@ -1,0 +1,7 @@
+{{ $filepath := printf "static/documents/meeting-minutes" }}
+{{ $files    := readDir $filepath }}
+<p>
+{{ range $files }}
+	<a href="/documents/meeting-minutes/{{ .Name }}">{{ replace (replace (replace .Name ".pdf" "") "-General-Meeting-Minutes" ": General Meeting Minutes") "-Board-Meeting-Minutes" ": Board Meeting Minutes" }}</a><br />
+{{ end }}
+</p>

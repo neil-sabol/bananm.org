@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	backgroundColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+	showThumbsButton="true"
+	galleryHeight="550px"
+	textColor="rgba(135,142,131,0)"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/IMG_0712.jpg"
+	thumbURL="thumbs/IMG_0712.jpg"
+	linkURL="images/IMG_0712.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Logo-Contest\IMG_0712.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0713.jpg"
+	thumbURL="thumbs/IMG_0713.jpg"
+	linkURL="images/IMG_0713.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Logo-Contest\IMG_0713.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

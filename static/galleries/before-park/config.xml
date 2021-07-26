@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	importTitle="NONE"
+	textColor="rgba(135,142,131,0)"
+	backgroundColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+	showExpandButton="false"
+
+>
+  <image imageURL="images/01.jpg"
+	thumbURL="thumbs/01.jpg"
+	linkURL="images/01.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\before-park\01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02.jpg"
+	thumbURL="thumbs/02.jpg"
+	linkURL="images/02.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\before-park\02.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/09.jpg"
+	thumbURL="thumbs/09.jpg"
+	linkURL="images/09.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\before-park\09.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21.jpg"
+	thumbURL="thumbs/21.jpg"
+	linkURL="images/21.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\before-park\21.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22.jpg"
+	thumbURL="thumbs/22.jpg"
+	linkURL="images/22.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\before-park\22.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

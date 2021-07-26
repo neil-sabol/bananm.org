@@ -1,0 +1,23 @@
+<h2>Newsletter</h2>
+{{ $filepath := printf "static/documents/newsletter" }}
+{{ $files    := readDir $filepath }}
+<p>
+{{ range last 1 $files }}
+	<a href="/documents/newsletter/{{ .Name }}"><img src="/images/newsletter-icon.png" />&nbsp;{{ replace (replace .Name ".pdf" "") "-Newsletter" " Bel-Air News" }}</a>
+{{ end }}
+</p>
+<h2>Calendar</h2>
+<p>
+{{ $.Scratch.Set "counter" 0 }}
+{{ range .Site.Data.events }}
+	{{ if ge .startdate.Unix now.Unix }}
+		{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+		<strong>{{ .name }} (@<a href={{ .locationurl }} target="_blank">{{ .locationname }}</a>)</strong><br />
+		<em>{{ .startdate.Format "January 02" }}, {{ .duration }}</em><br />
+		{{ .comment }}<br /><br />
+	{{ end }}
+{{ end }}
+{{ if eq ($.Scratch.Get "counter") 0 }}
+	No events at this time
+{{ end }}
+</p>

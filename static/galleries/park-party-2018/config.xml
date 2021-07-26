@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	backgroundColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+	showThumbsButton="true"
+	galleryHeight="550px"
+	textColor="rgba(135,142,131,0)"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/IMG_0835.jpg"
+	thumbURL="thumbs/IMG_0835.jpg"
+	linkURL="images/IMG_0835.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Park-Party\IMG_0835.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0838.jpg"
+	thumbURL="thumbs/IMG_0838.jpg"
+	linkURL="images/IMG_0838.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Park-Party\IMG_0838.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0830.jpg"
+	thumbURL="thumbs/IMG_0830.jpg"
+	linkURL="images/IMG_0830.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Park-Party\IMG_0830.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0831.jpg"
+	thumbURL="thumbs/IMG_0831.jpg"
+	linkURL="images/IMG_0831.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Park-Party\IMG_0831.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	backgroundColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+	showThumbsButton="true"
+	galleryHeight="550px"
+	textColor="rgba(135,142,131,0)"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/IMG_3744.jpg"
+	thumbURL="thumbs/IMG_3744.jpg"
+	linkURL="images/IMG_3744.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\around-2014\images\IMG_3744.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3748.jpg"
+	thumbURL="thumbs/IMG_3748.jpg"
+	linkURL="images/IMG_3748.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\around-2014\images\IMG_3748.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3751.jpg"
+	thumbURL="thumbs/IMG_3751.jpg"
+	linkURL="images/IMG_3751.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\around-2014\images\IMG_3751.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3756.jpg"
+	thumbURL="thumbs/IMG_3756.jpg"
+	linkURL="images/IMG_3756.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\around-2014\images\IMG_3756.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3763.jpg"
+	thumbURL="thumbs/IMG_3763.jpg"
+	linkURL="images/IMG_3763.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\around-2014\images\IMG_3763.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3764.jpg"
+	thumbURL="thumbs/IMG_3764.jpg"
+	linkURL="images/IMG_3764.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\photos\around-2014\images\IMG_3764.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

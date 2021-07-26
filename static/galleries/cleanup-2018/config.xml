@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	backgroundColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+	showThumbsButton="true"
+	galleryHeight="550px"
+	textColor="rgba(135,142,131,0)"
+	importTitle="NONE"
+	useFullscreenExpand="false"
+
+>
+  <image imageURL="images/IMG_0840.jpg"
+	thumbURL="thumbs/IMG_0840.jpg"
+	linkURL="images/IMG_0840.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Clean-Up\IMG_0840.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0841.jpg"
+	thumbURL="thumbs/IMG_0841.jpg"
+	linkURL="images/IMG_0841.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Clean-Up\IMG_0841.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0842.jpg"
+	thumbURL="thumbs/IMG_0842.jpg"
+	linkURL="images/IMG_0842.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Neil\Desktop\BANA-Clean-Up\IMG_0842.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

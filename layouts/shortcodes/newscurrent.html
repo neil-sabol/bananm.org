@@ -1,0 +1,7 @@
+{{ $filepath := printf "static/documents/newsletter" }}
+{{ $files    := readDir $filepath }}
+<p>
+{{ range last 1 $files }}
+	<a href="/documents/newsletter/{{ .Name }}"><img src="/images/newsletter-icon.png" />&nbsp;{{ replace (replace .Name ".pdf" "") "-Newsletter" " Bel-Air News" }}</a>
+{{ end }}
+</p>

@@ -1,0 +1,10 @@
+baseURL = "https://www.bananm.org/"
+languageCode = "en-us"
+title = "Bel-Air Neighborhood Association: Albuquerque, New Mexico (NM), 87110"
+theme = "belair"
+disableKinds=["RSS","sitemap"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

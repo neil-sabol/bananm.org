@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<!--
+	Minimaxing by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{{ .Site.Title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+		<div id="page-wrapper">
+			<div id="header-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+							<header id="header" style="margin-top:0.5%">
+								{{ partial "header.html" . }}
+							</header>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="container">
+
+					<div>
+						<br />
+						<center><img style="max-width:998px; width:100%" src="/images/bg_toptheme_short.jpg" /></center>
+						<br />
+					</div>
+
+				</div>
+			</div>
+
+			<div id="main">
+				<div class="container">
+					<div class="row main-row">
+						<div class="3u 12u(mobile)">
+
+							<section>
+								{{ partial "topleft.html" . }}
+							</section>
+						</div>
+						<div class="6u 12u(mobile) important(mobile)">
+
+							<section class="middle-content">
+								<h2>Welcome to the Bel-Air Neighborhood</h2>
+								<p>Bel-Air is a residential neighborhood located in the Uptown area of Albuquerque, New Mexico and is bordered on 3 sides by a variety of large and small businesses. Our major street boundaries are Carlisle, San Mateo, Candelaria and Menaul.</p>
+								<p>We are centrally located in the City with ease of access to the University of New Mexico (UNM) and Central New Mexico Community College (CNM). The UNM Medical School and UNM Law School are less than 10 minutes away by car.  The Albuquerque SUNPORT is about 12-15 minutes away, depending on traffic.  There is easy freeway access to both I-40 (East and West) and I-25 (North and South).</p>
+								<p>Bel-Air is located minutes away from some of the best shopping and retail centers in Albuquerque's UPTOWN area.</p>
+							</section>
+
+						</div>
+						<div class="3u 12u(mobile)">
+
+							<section>
+								{{ partial "topright.html" . }}
+							</section>
+
+							<section>
+								{{ partial "bottomright.html" . }}
+							</section>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="8u 12u(mobile)">
+
+							<section>
+								<h2>Neighborhood Resources</h2>
+								{{ partial "resources.html" . }}
+							</section>
+
+						</div>
+						<div class="4u 12u(mobile)">
+
+							<section>
+								<h2>Weather</h2>
+								{{ partial "weather.html" . }}
+							</section>
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+
+							<div id="copyright">
+								&copy Albuquerque Bel-Air Neighborhood Association. | <a href="/privacy.txt">Privacy</a> | Design: <a href="http://html5up.net">HTML5 UP</a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/skel.min.js"></script>
+			<script src="/assets/js/skel-viewport.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="/assets/js/main.js"></script>
+	</body>
+</html>
