@@ -3,7 +3,7 @@
 {{ $files    := readDir $filepath }}
 <p>
 {{ range last 1 $files }}
-	<a href="/documents/newsletter/{{ .Name }}"><img src="/images/newsletter-icon.png" />&nbsp;{{ replace (replace .Name ".pdf" "") "-Newsletter" " Bel-Air News" }}</a>
+	<a href="/documents/newsletter/{{ .Name }}"><img alt="Decorative image, Adobe PDF logo/icon" src="/images/newsletter-icon.png" />&nbsp;{{ replace (replace .Name ".pdf" "") "-Newsletter" " Bel-Air News" }}</a>
 {{ end }}
 </p>
 <h2>Calendar</h2>
