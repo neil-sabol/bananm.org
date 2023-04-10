@@ -1,6 +1,6 @@
-name = "Saturday Clean-Up Day"
+name = "Saturday Clean-Up Day (HAZMAT)"
 locationname = "Bel-Air Park"
 locationurl = "https://goo.gl/maps/VgSSNiB3ALR2"
-comment = "City will have a garbage truck available to dispose of excess trash you may have around the house. We also need neighbor volunteers to help clean up the park and the alleys."
-startdate = 2022-05-21T23:59:59Z
+comment = "City will have a garbage truck available to dispose of excess trash, yard debris, and the like. We will collect hazardous materials you may have around the house on May 20 only and make sure they are disposed of properly. See: https://www.cabq.gov/solidwaste/household-hazardous-waste for more info."
+startdate = 2023-05-20T23:59:59Z
 duration = "8:00 AM - 10:00 AM"
