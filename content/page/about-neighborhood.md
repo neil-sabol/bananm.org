@@ -26,16 +26,15 @@ draft: false
 	<p>To this end, the activities of the Association shall include, but are not limited to, sponsoring cooperative planning, research, fund raising and public education progress as they are deemed necessary.</p>
 	<h3>BANA Board of Directors</h3>
 	<p>
-	<strong>Hart Lewis</strong> (2015), Acting President<br />
-	<strong>Vacant</strong>, Vice-President<br />
-	<strong>Barb Johnson</strong> (1994), Treasurer<br />
+	<strong>Seth Arseneau</strong> (2019), President<br />
+	<strong>Barb Johnson</strong> (1994), Vice-President/Treasurer<br />
 	<strong>Jeanene Witt</strong> (2013), Secretary<br />
-	<strong>Rosalie Nava</strong> (2017), Director<br />
-	<strong>Liz Shiels</strong> (2019), Director<br />
-	<strong>Seth Arsenau</strong> (2019), Director<br />
+	<strong>Add Your Name</strong> (2023), Director<br />
+	<strong>Add Your Name</strong> (2023), Director<br />
 	</p>
 	<h3>By Laws</h3>
-	<p><a href="/documents/201504-Bel-Air-Neighborhood-Association-By-Laws.pdf">View/download</a> the Bel-Air Neighborhood Association By-Laws</p> 
-	<h3>Meeting Minutes (oldest to newest)</h3>
+	<p><a href="/documents/202304-Bel-Air-Neighborhood-Association-By-Laws.pdf">View/download</a> the Bel-Air Neighborhood Association By-Laws</p> 
+	<h3>Archive Meeting Minutes (oldest to newest)</h3>
+	<p>Note: Meeting minutes from 2018 - present are contained in the <a href="/page/newsletter/">Bel-Air Neighborhood Association newsletter</a>.</p>
 	{{< meetingminutes >}}
 </section>
