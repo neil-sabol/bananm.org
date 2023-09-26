@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryHeight="550px"
+	textColor="rgba(135,142,131,0)"
+	backgroundColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(0,120,151,.5)"
+
+>
+  <image imageURL="images/image0.jpg"
+	thumbURL="thumbs/image0.jpg"
+	linkURL="images/image0.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image0.JPEG">
+    <title><![CDATA[image0]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image3.jpg"
+	thumbURL="thumbs/image3.jpg"
+	linkURL="images/image3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image3.JPEG">
+    <title><![CDATA[image3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image4.jpg"
+	thumbURL="thumbs/image4.jpg"
+	linkURL="images/image4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image4.JPEG">
+    <title><![CDATA[image4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image5.jpg"
+	thumbURL="thumbs/image5.jpg"
+	linkURL="images/image5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image5.JPEG">
+    <title><![CDATA[image5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image10.jpg"
+	thumbURL="thumbs/image10.jpg"
+	linkURL="images/image10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image10.JPEG">
+    <title><![CDATA[image10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image11.jpg"
+	thumbURL="thumbs/image11.jpg"
+	linkURL="images/image11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image11.JPEG">
+    <title><![CDATA[image11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image13.jpg"
+	thumbURL="thumbs/image13.jpg"
+	linkURL="images/image13.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image13.JPEG">
+    <title><![CDATA[image13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image13_1.jpg"
+	thumbURL="thumbs/image13_1.jpg"
+	linkURL="images/image13_1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image13_1.JPEG">
+    <title><![CDATA[image13_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image15.jpg"
+	thumbURL="thumbs/image15.jpg"
+	linkURL="images/image15.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image15.JPEG">
+    <title><![CDATA[image15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image17.jpg"
+	thumbURL="thumbs/image17.jpg"
+	linkURL="images/image17.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\image17.JPEG">
+    <title><![CDATA[image17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3452.jpg"
+	thumbURL="thumbs/IMG_3452.jpg"
+	linkURL="images/IMG_3452.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3452.jpg">
+    <title><![CDATA[IMG_3452]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3453.jpg"
+	thumbURL="thumbs/IMG_3453.jpg"
+	linkURL="images/IMG_3453.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3453.gif">
+    <title><![CDATA[IMG_3453]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3456.jpg"
+	thumbURL="thumbs/IMG_3456.jpg"
+	linkURL="images/IMG_3456.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3456.jpg">
+    <title><![CDATA[IMG_3456]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3458.jpg"
+	thumbURL="thumbs/IMG_3458.jpg"
+	linkURL="images/IMG_3458.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3458.jpg">
+    <title><![CDATA[IMG_3458]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3460.jpg"
+	thumbURL="thumbs/IMG_3460.jpg"
+	linkURL="images/IMG_3460.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3460.jpg">
+    <title><![CDATA[IMG_3460]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3461.jpg"
+	thumbURL="thumbs/IMG_3461.jpg"
+	linkURL="images/IMG_3461.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3461.jpg">
+    <title><![CDATA[IMG_3461]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3462.jpg"
+	thumbURL="thumbs/IMG_3462.jpg"
+	linkURL="images/IMG_3462.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3462.jpg">
+    <title><![CDATA[IMG_3462]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3468.jpg"
+	thumbURL="thumbs/IMG_3468.jpg"
+	linkURL="images/IMG_3468.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3468.jpg">
+    <title><![CDATA[IMG_3468]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3469.jpg"
+	thumbURL="thumbs/IMG_3469.jpg"
+	linkURL="images/IMG_3469.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3469.jpg">
+    <title><![CDATA[IMG_3469]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
