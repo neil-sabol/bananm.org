@@ -30,7 +30,7 @@ draft: false
 	<strong>Seth Arseneau</strong>, Vice-President<br />
 	<strong>Mary Rieb</strong>, Secretary<br />
 	<strong>Barb Johnson</strong>, Treasurer<br />
-	<strong>Cheryle Bruce</strong>, Director<br />
+	<strong>Steven Holman</strong>, Director<br />
 	</p>
 	<h3>By Laws</h3>
 	<p><a href="/documents/202304-Bel-Air-Neighborhood-Association-By-Laws.pdf">View/download</a> the Bel-Air Neighborhood Association By-Laws</p> 
