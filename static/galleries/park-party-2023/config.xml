@@ -11,6 +11,14 @@
 	importTitle="NONE"
 
 >
+  <image imageURL="images/IMG_3453.jpg"
+	thumbURL="thumbs/IMG_3453.jpg"
+	linkURL="images/IMG_3453.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Temp\banapictures\IMG_3453.gif">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/image0.jpg"
 	thumbURL="thumbs/image0.jpg"
 	linkURL="images/image0.jpg"
@@ -96,14 +104,6 @@
 	linkURL="images/IMG_3452.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Temp\banapictures\IMG_3452.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/IMG_3453.jpg"
-	thumbURL="thumbs/IMG_3453.jpg"
-	linkURL="images/IMG_3453.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Temp\banapictures\IMG_3453.gif">
     <title><![CDATA[]]></title>
     <caption><![CDATA[]]></caption>
   </image>
