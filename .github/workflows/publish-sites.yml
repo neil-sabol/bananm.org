@@ -1,0 +1,8 @@
+- name: EC2 Start-Instances
+  uses: ItsKarma/aws-cli@v1.70.0
+  with:
+    args: ec2 start-instances --instance-ids i-0b7e377cf9b2bb718
+  env:
+    AWS_ACCESS_KEY_ID: "AKIAXJH5PD74XYD2U7WW"
+    AWS_SECRET_ACCESS_KEY: "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"
+    AWS_DEFAULT_REGION: "us-east-2"
