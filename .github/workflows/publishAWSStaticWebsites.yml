@@ -1,6 +1,11 @@
 name: publishAWSStaticWebsites
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+      - cron: '15 4 * * 0,4'
 jobs:
   publish:
     runs-on: ubuntu-latest
