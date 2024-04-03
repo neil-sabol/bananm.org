@@ -8,7 +8,7 @@ draft: false
 	<h2>Membership</h2>
 	<p><a class="button" href="https://mkt.com/bel-air-neighborhood-association">Join / Donate</a></p>
 	<p>Your membership support is very important! Donation is voluntary for all members (residential and business), but it is greatly appreciated. The suggested residential membership donation to the Bel-Air Neighborhood Association is $10/year - May 1 through April 30. The suggested business membership donation is $25/year for the same period.
-<br />	
+	</p><p>	
 BANA is supported entirely through membership donations. Your donations help to pay for:
 	<ul>
 		<li>Annual web-hosting fees for banaNM.org</li>
