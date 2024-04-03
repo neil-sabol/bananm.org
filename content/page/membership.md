@@ -11,15 +11,15 @@ draft: false
 <br />	
 BANA is supported entirely through membership donations. Your donations help to pay for:
 	<ul>
-		<li>-- Annual web-hosting fees for banaNM.org</li>
+		<li>Annual web-hosting fees for banaNM.org</li>
 		<br />
-		<li>-- Post Office box expense</li>
+		<li>Post Office box expense</li>
 		<br />
-		<li>-- Printing and mailing newsletters to neighbors who prefer a paper copy</li>
+		<li>Printing and mailing newsletters to neighbors who prefer a paper copy</li>
 		<br />
-		<li>-- 3 Annual Bel-Air Saturday Clean-up Days which occur on the 3rd Saturday of May, July, and September</li>
+		<li>3 Annual Bel-Air Saturday Clean-up Days which occur on the 3rd Saturday of May, July, and September</li>
 		<br />
-		<li>-- Food and supplies for the Annual Park Party held every year in September</li>
+		<li>Food and supplies for the Annual Park Party held every year in September</li>
 	</ul>
 	</p>
 	<p>Questions? <a href="/page/contact/">CONTACT US</a></p>
