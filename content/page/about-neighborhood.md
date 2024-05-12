@@ -26,11 +26,11 @@ draft: false
 	<p>To this end, the activities of the Association shall include, but are not limited to, sponsoring cooperative planning, research, fund raising and public education progress as they are deemed necessary.</p>
 	<h3>BANA Board of Directors</h3>
 	<p>
-	<strong>Elizabeth Alarid</strong>, President<br />
+	<strong>Barb Johnson</strong>, President<br />
 	<strong>Seth Arseneau</strong>, Vice-President<br />
 	<strong>Mary Rieb</strong>, Secretary<br />
-	<strong>Barb Johnson</strong>, Treasurer<br />
-	<strong>Steven Holman</strong>, Director<br />
+	<strong>Cheryle Bruce</strong>, Treasurer<br />
+	<strong>Ursula Wilkinson</strong>, Director<br />
 	</p>
 	<h3>By Laws</h3>
 	<p><a href="/documents/202304-Bel-Air-Neighborhood-Association-By-Laws.pdf">View/download</a> the Bel-Air Neighborhood Association By-Laws</p> 
