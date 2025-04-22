@@ -25,7 +25,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: $hugoversion
+      HUGO_VERSION: ${{ vars.hugoversion }}
     steps:
       - name: Install Hugo CLI
         run: |
